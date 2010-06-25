@@ -1,0 +1,52 @@
+Gestion des projets :
+
+J'ai beaucoup de projets (actuels et passés), dont certains assez volumineux. Je veux pouvoir avoir les méta-données (liste des fichiers, favoris, …) accessibles en permanence (via le site), mais je ne veux pas que tout soit stocké sur le site.
+Je veux par contre pouvoir facilement récupérer un projet archivé / externe (documentation, film, …), qui se trouve actuellement sur mon disque dur externe.
+Si j'ai récupéré un projet archivé / externe, je ne dois pas pouvoir le modifier sans le ré-ouvrir (enlever l'état "archivé").
+Si j'ai un projet, je dois pouvoir savoir si j'ai une version autre part, et si je peux supprimer celle-là sans crainte.
+Lorsque je travaille sur un projet à la maison, je veux pouvoir partir à la fac et savoir que là bàs j'aurais la même version (transfert de la portion manquante de l'historique via clé usb, site, autre).
+Je maintiens des sauvegardes des données d'autres personnes que moi. Mais c'est pénible d'avoir à transporter mon disque dur externe à chaque fois. Je veux donc pouvoir emporter seulement l'état de l'historique sur clé USB, et revenir avec seulement les modifications, qui seront intégrées sur le disque dur.
+
+Favoris :
+
+Je veux pouvoir associer une url (favori) avec un ou plusieurs projets (même s'ils sont archivés), avec des mots-clés, des notes, etc.
+
+Notes :
+
+Du "mind mapping" ça serait sympa…
+
+Suivi des bugs :
+
+Je veux pouvoir associer un bug ou une tâche avec n'importe quoi (portion de code, commit, url, …).
+Ça serait bien de pouvoir faire un peu de planification… avec Evidence Based Schedeulingue (houlà l'ortograf) pourquoi pas !
+
+Travail en ligne :
+
+Je veux avoir un éditeur de code avec coloration syntaxique etc. directement sur le site.
+Idéalement, l'éditeur parse le code, et me fournit une version sous forme d'arbre syntaxique, que je peux éditer. Un premier pas vers le langage grunt ;-) .
+Mes conversations de chat et e-mails sont aussi prises en charge (peuvent être associées à d'autres choses, rendues privées ou publiques, synchronisées, …).
+Un shell unix (terminal ajax / commandes sur le serveur) ça serait cool !
+Pouvoir marquer des passages dans les PDF est un plus certain, mais je ne sais pas à quel point c'est faisable…
+Ça doit aller très vite !
+
+Versions :
+
+Je veux pouvoir versionner la config des différents systèmes sur lesquels j'ai un compte, avec des parties communes et des parties qui dépendent de chaque système. Utiliser des branches ?
+Lorsque je fais un "push" dans un projet, il est envoyé sur github, sur mon serveur git perso, et potentiellement d'autres endroits.
+Lors de modifications, des notifications peuvent être envoyées (jabber, mail, notify-send qui affiche une bulle, …).
+Certains projets utilisent git, d'autres SVN, d'autres bazaar, …
+Je VEUX pouvoir consulter l'historique des versions avec un truc aussi joli que celui de "bzr explorer".
+Le système de "une branche par tâche, et un seul commit pour chaque fusion de branche" de bazaar me convient bien (par contre, la vitesse me convient pas du tout…).
+Un déplacement de fichier est une *vraie* action si possible (pas comme dans git).
+Versionning des mails, et pouvoir les récupérer plus rapidement qu'avec IMAP.
+
+Vie privée :
+
+Certains projets / favoris / notes / bugs sont privées, d'autres sont publiques.
+Si possible, je souhaite pouvair partager des données privées avec quelques autres personnes.
+
+Autres :
+
+Du point de vue de l'utilisateur, les favoris, notes, rapports de bugs, mails, conversations, fichiers, etc. ont beaucoup en commun. Si possible, ils sont tous stockés de la même manière : seule l'interface d'édition varie.
+On peut faire des liens entre n'importe quel "objet", et même entre des fragments d'objets (lignes X à Y de tel fichier, page 34 du PDF, …).
+Le système doit être très modulaire. Je dois pouvoir facilement passer à un autre gestionnaire de versions, un autre webmail, un autre tracker de bug, éditeur, etc.
