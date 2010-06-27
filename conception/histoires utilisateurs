@@ -34,7 +34,8 @@ Idéalement, l'éditeur parse le code, et me fournit une version sous forme d'ar
 Mes conversations de chat et e-mails sont aussi prises en charge (peuvent être associées à d'autres choses, rendues privées ou publiques, synchronisées, …).
 Un shell unix (terminal ajax / commandes sur le serveur) ça serait cool !
 Pouvoir marquer des passages dans les PDF est un plus certain, mais je ne sais pas à quel point c'est faisable…
-Ça doit aller très vite !
+Ça doit aller très très vite ! Pas d'ajax lourd !
+Pouvoir définir un workflow ? (Lorsque je commence une tâche, je fais ci et ça, j'envoie tel mail à untel, etc.). À réfléchir.
 
 Versions :
 
@@ -47,6 +48,7 @@ Le système de "une branche par tâche, et un seul commit pour chaque fusion de 
 Un déplacement de fichier est une *vraie* action si possible (pas comme dans git).
 Versionning des mails, et pouvoir les récupérer plus rapidement qu'avec IMAP.
 Pour faciliter la lecture de l'historique, possibilité de regroupper plusieurs commit. Peut-être même s'ils ne sont pas consécutifs. Des branches fusionnées avec trunk en permanence, peut-être.
+Pouvoir vérouiller un objet et en empêcher la modification (fork oui, modification non).
 
 Vie privée :
 
