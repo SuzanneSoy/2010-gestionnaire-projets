@@ -55,6 +55,9 @@ Vie privée :
 Certains projets / favoris / notes / bugs sont privées, d'autres sont publiques.
 Si possible, je souhaite pouvair partager des données privées avec quelques autres personnes.
 
+Interface :
+Pouvoir définir sa propre interface (de manière graphique si possible), et utilisant des widgets (déjà écrits) dont les données proviennent de divers endroits de la banque de données (binding en lecture / écriture).
+
 Autres :
 
 Du point de vue de l'utilisateur, les favoris, notes, rapports de bugs, mails, conversations, fichiers, etc. ont beaucoup en commun. Si possible, ils sont tous stockés de la même manière : seule l'interface d'édition varie.
