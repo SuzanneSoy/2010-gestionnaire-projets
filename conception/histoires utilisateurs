@@ -20,6 +20,13 @@ Suivi des bugs :
 Je veux pouvoir associer un bug ou une tâche avec n'importe quoi (portion de code, commit, url, …).
 Ça serait bien de pouvoir faire un peu de planification… avec Evidence Based Schedeulingue (houlà l'ortograf) pourquoi pas !
 
+Finances :
+Gestion des finances, historique des dépenses.
+Pouvoir dire aussi combien on à, pour faire des "checkpoint" (ok, y'a pas tout l'historique, mais plutôt que de continuer avec un montant faux, on "force" le montant).
+Pouvoir exclure une dépense des graphiques.
+Graphiques (% des dépenses dans telle ou telle catégorie, évolution du montant disponible, …).
+Pouvoir marquer une dépense à la date X, puis indiquer sa prise en compte par la banque à une autre date, et pointer l'opération à une autre date.
+
 Travail en ligne :
 
 Je veux avoir un éditeur de code avec coloration syntaxique etc. directement sur le site.
@@ -39,6 +46,7 @@ Je VEUX pouvoir consulter l'historique des versions avec un truc aussi joli que 
 Le système de "une branche par tâche, et un seul commit pour chaque fusion de branche" de bazaar me convient bien (par contre, la vitesse me convient pas du tout…).
 Un déplacement de fichier est une *vraie* action si possible (pas comme dans git).
 Versionning des mails, et pouvoir les récupérer plus rapidement qu'avec IMAP.
+Pour faciliter la lecture de l'historique, possibilité de regroupper plusieurs commit. Peut-être même s'ils ne sont pas consécutifs. Des branches fusionnées avec trunk en permanence, peut-être.
 
 Vie privée :
 
@@ -50,3 +58,4 @@ Autres :
 Du point de vue de l'utilisateur, les favoris, notes, rapports de bugs, mails, conversations, fichiers, etc. ont beaucoup en commun. Si possible, ils sont tous stockés de la même manière : seule l'interface d'édition varie.
 On peut faire des liens entre n'importe quel "objet", et même entre des fragments d'objets (lignes X à Y de tel fichier, page 34 du PDF, …).
 Le système doit être très modulaire. Je dois pouvoir facilement passer à un autre gestionnaire de versions, un autre webmail, un autre tracker de bug, éditeur, etc.
+Liste de fonctionnalités voulues par qqn d'autre : http://superuser.com/questions/91981/web-based-version-control-for-documents
