@@ -57,6 +57,7 @@ Si possible, je souhaite pouvair partager des données privées avec quelques au
 
 Interface :
 Pouvoir définir sa propre interface (de manière graphique si possible), et utilisant des widgets (déjà écrits) dont les données proviennent de divers endroits de la banque de données (binding en lecture / écriture).
+Je veux pouvoir gérer les projets etc. en ligne de commande depuis le terminal lorsque l'interface web est inaccessible / pour scripter tout ça.
 
 Autres :
 
