@@ -32,6 +32,9 @@ Travail en ligne :
 Je veux avoir un éditeur de code avec coloration syntaxique etc. directement sur le site.
 Idéalement, l'éditeur parse le code, et me fournit une version sous forme d'arbre syntaxique, que je peux éditer. Un premier pas vers le langage grunt ;-) .
 Mes conversations de chat et e-mails sont aussi prises en charge (peuvent être associées à d'autres choses, rendues privées ou publiques, synchronisées, …).
+Je peux aussi utiliser un client mail normal.
+Je peux synchroniser mes boîtes aux lettres sur le serveur et une copie locale (sur laquelle travaille mon client mail) avec git ou du moins quelque chose de plus rapide que IMAP !
+J'ai plusieurs adresses mail, et je choisis laquelle j'utilise pour envoyer des mails. Je peux choisir d'en avoir une par défaut, ou bien de n'en avoir aucune (donc je suis *obligé* de choisir mon adresse sortante, ce qui m'évite d'utiliser la mauvaise par oubli).
 Un shell unix (terminal ajax / commandes sur le serveur) ça serait cool !
 Pouvoir marquer des passages dans les PDF est un plus certain, mais je ne sais pas à quel point c'est faisable…
 Ça doit aller très très vite ! Pas d'ajax lourd !
@@ -49,6 +52,7 @@ Un déplacement de fichier est une *vraie* action si possible (pas comme dans gi
 Versionning des mails, et pouvoir les récupérer plus rapidement qu'avec IMAP.
 Pour faciliter la lecture de l'historique, possibilité de regroupper plusieurs commit. Peut-être même s'ils ne sont pas consécutifs. Des branches fusionnées avec trunk en permanence, peut-être.
 Pouvoir vérouiller un objet et en empêcher la modification (fork oui, modification non).
+La gestion des versions de chaque projet peut se faire avec git, svn, mercurial, bazaar, ...
 
 Vie privée :
 
